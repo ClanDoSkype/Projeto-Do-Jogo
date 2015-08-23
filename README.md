@@ -1,3 +1,3 @@
 # Projeto-Do-Jogo
 
-Colocar informações
+RPG do Clan do Skype destinado à pura diversão e adquirimento de conhecimento.#
